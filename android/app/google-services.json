@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366702850959",
+    "project_id": "notify-a4afa",
+    "storage_bucket": "notify-a4afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366702850959:android:32a065b0707cac58a0d1fa",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxmY9aRljCKCvfkkFeUs-zrxhJ1YpwPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
