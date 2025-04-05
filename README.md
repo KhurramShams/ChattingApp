@@ -1,16 +1,12 @@
-# notify
+## 📱 Notify – Online Chatting Mobile App
 
-A new Flutter project.
+**Notify** is a real-time chatting mobile application built with **Flutter** and **Firebase**, designed for seamless and secure communication between users.
 
-## Getting Started
+💬 **Key Features:**
+- Real-time one-on-one messaging using **Firebase Realtime Database**  
+- User authentication via **email** for secure access  
+- Clean and responsive **Flutter UI** for smooth mobile experience  
+- Lightweight and fast with platform support (Android) 
+- Easily scalable for group chats or additional features  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Notify is a modern and minimal chat app that showcases real-time communication using Flutter + Firebase tech stack.
